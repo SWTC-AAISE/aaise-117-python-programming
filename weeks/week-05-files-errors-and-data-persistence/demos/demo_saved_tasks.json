@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Read chapter",
+    "minutes": 20,
+    "completed": true
+  },
+  {
+    "task": "Practice loops",
+    "minutes": 35,
+    "completed": false
+  },
+  {
+    "task": "Review notes",
+    "minutes": 15,
+    "completed": false
+  }
+]

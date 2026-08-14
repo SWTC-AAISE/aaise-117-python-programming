@@ -1,0 +1,20 @@
+{
+  "location": "Sheboygan",
+  "current": {
+    "temperature_f": 61,
+    "condition": "Partly Cloudy",
+    "wind_mph": 9
+  },
+  "forecast": [
+    {
+      "day": "Thursday",
+      "high_f": 64,
+      "low_f": 50
+    },
+    {
+      "day": "Friday",
+      "high_f": 67,
+      "low_f": 52
+    }
+  ]
+}

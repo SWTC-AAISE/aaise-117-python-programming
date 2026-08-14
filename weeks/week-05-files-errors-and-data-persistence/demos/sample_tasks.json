@@ -1,0 +1,20 @@
+[
+  {
+    "course": "Python Programming",
+    "task": "Finish debugging worksheet",
+    "minutes": 35,
+    "completed": true
+  },
+  {
+    "course": "Web Development",
+    "task": "Revise CSS layout",
+    "minutes": 50,
+    "completed": false
+  },
+  {
+    "course": "Python Programming",
+    "task": "Review JSON notes",
+    "minutes": 25,
+    "completed": false
+  }
+]

@@ -1,0 +1,3 @@
+Study reminder:
+Break larger tasks into small steps.
+Check output carefully before changing code.

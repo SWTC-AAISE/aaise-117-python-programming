@@ -1,0 +1,5 @@
+StudyPilot Notes
+----------------
+1. Review Python examples
+2. Practice debugging carefully
+3. Prepare for the next lab
