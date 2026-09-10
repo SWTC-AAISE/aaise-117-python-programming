@@ -15,6 +15,9 @@ python -m pytest 11_pytest_unit_tests_demo.py
 To install pytest and mock:
 * python -m pip install pytest
 * python -m pip install mock
+
+`pytest` runs test functions and reports whether they pass or fail.
+`mock` creates replacement objects so tests can control and inspect dependencies.
 """
 
 from unittest.mock import Mock
