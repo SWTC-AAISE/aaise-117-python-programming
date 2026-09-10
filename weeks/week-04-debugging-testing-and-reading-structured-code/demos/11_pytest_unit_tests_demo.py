@@ -4,13 +4,17 @@ Week 4 Demo 11: pytest unit tests
 Purpose:
 Show a small but realistic pytest example.
 
-Instructor note:
-This is a recognition-level introduction to pytest. Students do not need to
+Note:
+This is a recognition-level introduction to pytest. You do not need to
 master testing architecture here. The goal is to see that professional tests
 are usually written as repeatable checks, not as ad hoc print statements.
 
 Run this demo with:
 python -m pytest 11_pytest_unit_tests_demo.py
+
+To install pytest and mock:
+* python -m pip install pytest
+* python -m pip install mock
 """
 
 from unittest.mock import Mock
