@@ -1,3 +1,4 @@
 [
-  {"task": "Read chapter", "minutes": 20},
+  {"task": "Read chapter", "minutes": 20,},
   {"task": "Practice loops", "minutes": 30}
+]
