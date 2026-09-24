@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Add a study task</title>
+</head>
+<body>
+  <main>
+    <h1>Add a study task</h1>
+    <form method="post">
+      {% csrf_token %}
+      {{ form.as_p }}
+      <button type="submit">Save task</button>
+    </form>
+    <p><a href="{% url 'task_list' %}">Back to tasks</a></p>
+  </main>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Study tasks</title>
+</head>
+<body>
+  <main>
+    <h1>Study tasks</h1>
+    <p><a href="{% url 'add_task' %}">Add a task</a></p>
+    <ul>
+      {% for task in tasks %}
+        <li>{{ task.course_name }}: {{ task.title }} ({{ task.estimated_minutes }} minutes)</li>
+      {% empty %}
+        <li>No study tasks yet.</li>
+      {% endfor %}
+    </ul>
+  </main>
+</body>
+</html>
