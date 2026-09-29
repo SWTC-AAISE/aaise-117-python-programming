@@ -21,6 +21,16 @@ Create a Python console app that helps a student track small assignment tasks fo
 
 ---
 
+### Potential/Backlog Features
+
+- delete a task
+- edit a task
+- add deadlines
+- attach files
+- analytics and reporting
+  
+---
+
 ## Inputs
 
 * course name
