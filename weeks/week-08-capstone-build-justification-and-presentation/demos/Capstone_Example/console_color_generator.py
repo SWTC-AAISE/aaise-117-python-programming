@@ -1,7 +1,5 @@
 """
-Explanation:
-
-Each function above is responsible for printing text in a specific color using ANSI escape codes:
+Explanation - For printing text in a specific color using ANSI escape codes:
 
 \033[ starts the ANSI escape sequence.
 91m, 92m, ... etc., are color codes for different foreground colors.
