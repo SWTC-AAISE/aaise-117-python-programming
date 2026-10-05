@@ -1,0 +1,32 @@
+[
+  {
+    "course": "Python Programming",
+    "task": "Draft capstone presentation outline",
+    "minutes": 30,
+    "complete": true
+  },
+  {
+    "course": "Database Concepts",
+    "task": "Review project notes",
+    "minutes": 25,
+    "complete": false
+  },
+  {
+    "course": "Web Development",
+    "task": "Finish discussion response",
+    "minutes": 20,
+    "complete": false
+  },
+  {
+    "course": "Python Programming",
+    "task": "Demo Capstone Project",
+    "minutes": 5,
+    "complete": true
+  },
+  {
+    "course": "Python Programming",
+    "task": "Extended Demo of Capstone Project",
+    "minutes": 7,
+    "complete": true
+  }
+]
